@@ -1,0 +1,7 @@
+main: me.wither.ogminions.OGMinionsPlugin
+author: "Wither#9789"
+name: OGMinions
+version: "1.1.1"
+
+depend: [MassiveCore, Vault]
+softdepend: [SuperiorSkyblock2, WildStacker, HolographicDisplays]
